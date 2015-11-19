@@ -1,7 +1,7 @@
 ## These two functions use a matrix as input and then store both the matrix
 ## and its inverse in its cache. The matrix has to be square, i.e. invertible.
 
-## Teh makeCacheMatrix function takes a matrix as input and returns a list of
+## The makeCacheMatrix function takes a matrix as input and returns a list of
 ## functions which can be used to cache both the matrix and its inverse. The
 ## functions "set" and "setinverse" set the cached matrix or its inverse while
 ## "get" and "getinverse" return the cached matrix or its inverse.
